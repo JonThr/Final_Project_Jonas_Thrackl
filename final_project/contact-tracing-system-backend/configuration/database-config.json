@@ -1,0 +1,10 @@
+{
+    "databaseName": "contactTracing",
+    "databaseServer": "localhost",
+    "databasePort": 28015,
+    "databaseTables": [
+        "userEntries",
+        "adminEntries",
+        "trackingEntries"
+    ]
+}

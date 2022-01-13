@@ -1,0 +1,26 @@
+{
+  "name": "contact-tracing-system-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Thrackl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "inversify": "^4.11.1",
+    "inversify-express-utils": "^4.2.2",
+    "reflect-metadata": "^0.1.13",
+    "rethinkdb": "^2.4.2",
+    "rethinkdb-ts": "^2.4.18",
+    "swagger-express-ts": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "ts-node": "^10.4.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.4"
+  }
+}
