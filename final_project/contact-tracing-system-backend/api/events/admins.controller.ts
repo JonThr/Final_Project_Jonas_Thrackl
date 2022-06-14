@@ -23,3 +23,4 @@ export class AdminsController implements interfaces.Controller {
       this.databaseService.addNewAdmin(request.body);
   }
 }
+wewe
